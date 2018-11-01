@@ -62,7 +62,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Schraer, Caroline
 - [ ] Schwarz, Ted
 - [ ] Sheffield, John
-- [ ] Siegel, Naomi
+- [X] Siegel, Naomi :bunny:
 - [ ] Stanton, Alex
 - [ ] Sucupira, Luis Felipe
 - [ ] Swartley, Joe
